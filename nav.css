@@ -50,7 +50,7 @@ header{
     flex-direction: column;
     justify-content: center;
     position: absolute;
-    background-color: rgba(107, 129, 140, 0.7);
+    background-color: #6B818C;
     right: 0;
     margin-top: 6.3vh;
   }
