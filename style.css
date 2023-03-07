@@ -7,6 +7,11 @@
     margin: 0;
 }
 
+label{
+    font-family: Montserrat, sans-serif;
+    color: #e0e1dd;
+}
+
 body{
     background-color: #1B263B;
     background-image: url("assets/jose_rizal.jpg");

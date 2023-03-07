@@ -4,12 +4,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .menubtn{
     display: flex;
     justify-content: center;
-    flex-direction: column;
     gap: 20px;
 }
 
@@ -29,3 +29,13 @@
     color: black;
 }
 
+.btnpic{
+    height: 12vw;
+    display: block;
+}
+
+h1{
+    color: #e0e1dd;
+    padding: 20px;
+    font-size: 2rem;
+}
