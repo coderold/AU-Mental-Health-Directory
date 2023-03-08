@@ -7,6 +7,10 @@
     margin: 0;
 }
 
+input {
+    padding: 10px;
+}
+
 label{
     font-family: Montserrat, sans-serif;
     color: #e0e1dd;
